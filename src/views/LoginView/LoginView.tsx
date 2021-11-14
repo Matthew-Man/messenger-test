@@ -58,7 +58,7 @@ export default function LoginView() {
 
   return (
     <Box margin={20}>
-      <Stack align="center">
+      <Stack align="center" spacing={6}>
         <Heading size="md" as="h2">
           Sign up/Login to continue
         </Heading>
